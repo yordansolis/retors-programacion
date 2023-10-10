@@ -1,5 +1,4 @@
 # Contar caracteres: Escribe una función recursiva que cuente cuántas veces aparece un carácter específico en una cadena.
- 
 #Por ejemplo, cuántas veces aparece la letra 'a' en "anaranjada".
 
 
